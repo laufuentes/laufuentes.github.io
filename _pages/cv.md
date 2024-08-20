@@ -13,26 +13,26 @@ redirect_from:
 
 ---
 
-* Ph.D in Policy Learning and Causal Inference
+* **Ph.D in Policy Learning and Causal Inference**
   * 2024 - 2027 (expected)
-  * INRIA-IDESP Montpellier University & MAP5 Paris Cité University
+  * *INRIA-IDESP Montpellier University & MAP5 Paris Cité University*
 
-* M.S. in Mathematics and Artificial Intelligence
+* **M.S. in Mathematics and Artificial Intelligence**
   * 2023-2024: M2 
-    * Paris-Saclay University, CentraleSupelec, ENS Paris-Saclay
+    * *Paris-Saclay University, CentraleSupelec, ENS Paris-Saclay*
     * Content: Supervised & non-supervised learning, Reinforced learning, Optimization for computer vision, Statistics in high dimension, Medical Image analysis, Bayesian statistics, Graphical models
   * 2022-2023: M1
-    * Paris-Saclay University
+    * *Paris-Saclay University*
     * Content: Statistical learning, Probability, Optimization, Supervised & non-supervised learning, Machine learning, Databases, Deep learning
 
   * LAUREATE SCHOLARSHIP MIXTAI: Criterion Excellence 
     * 2022-2023 & 2023-2024
-    * DataIA, Paris-Saclay University 
+    * *DataIA, Paris-Saclay University*
 
-* B.S. in Mathematics and Life Science, Paris-Saclay University, 
+* **B.S. in Mathematics and Life Science, Paris-Saclay University** 
   * 2019-2022
-  * Paris-Saclay University
-  * Content: 
+  * *Paris-Saclay University*
+  * Content: Algebra, Analysis, Probability, ODEs, Statistics, Algebraic structures, Differential calculus, Integration, Celular biology, Molecular biology, Evolution, Ecology, Bio-chemestry, Genetics, Animal ang vegetal physiology
 
 
 ## Professional experiences
@@ -40,31 +40,31 @@ redirect_from:
 ---
 
 * April 2024 - September 2024: Research Internship
-  * INRIA-IDESP
+  * *INRIA-IDESP*
   * Montpellier, France
   * "State of the art in policy learning"
   * Content: Statistics, Causal inference, Policy learning, Optimization, Machine learning
   * Supervisor: Julie Josse
 
 * April 2023 - July 2023: Research Intenship
-  * GSK 
+  * *GSK* 
   * Rixensart, Belgium
   * "A contribution to understanding sequencing precision"
   * Content: Classification, Linear models, Optimal transport, Machine learning, Bio-informatics, HPC
 
 * July 2022: Volunteering 
-  * International Civil Service (SCI)
+  * *International Civil Service (SCI)*
   * Flensburg, Germany
   * Help reforming a climatic park (Artefakt center)
 
 * April 2021 - May 2021: Research Internship
-  * IJCLab, Laboratory 2 Infinis Irene Joliot Curie, health department
+  * *IJCLab, Laboratory 2 Infinis Irene Joliot Curie, health department*
   * "Modeling cerebral tumor growth"
   * Study of the effect of Radiotherapy on low grade diffuse gliomas with a partial differential equation (Fisher-Kolmogorov), in Python
   * Supervisor: Mathilde Badoual, Sabir Jacquir
 
 * August 2021: Volunteering 
-  * International Civil Service (SCI)
+  * *International Civil Service (SCI)*
   * Rome, Italy
   * Help with the weeding, seed and harvest in a Community Supported Agriculture
   

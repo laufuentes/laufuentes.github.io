@@ -11,7 +11,7 @@ author_profile: true
 
 ---
 
-Paris-Saclay University, 2022
+*Paris-Saclay University, 2022*
 
 This report was written as part of the Bio-mathematics Project Teaching Unit in the third year of the Double Degree in Mathematics and Life Sciences. We were tasked with modeling the stochastic stages of development in a population of Zea Mays.
 
@@ -21,7 +21,7 @@ This report was written as part of the Bio-mathematics Project Teaching Unit in 
 
 ---
 
-Paris-Saclay University, 2022
+*Paris-Saclay University, 2022*
 
 In the first year of the Master's program in Mathematics and Artificial Intelligence, we worked on a predictive modeling project. The goal was to create a model that could predict daily energy consumption in France during the COVID-19 period, using a database that has been collecting information since 2012. You can find attached the report resulting from our work.
 
@@ -31,7 +31,7 @@ In the first year of the Master's program in Mathematics and Artificial Intellig
 
 ---
 
-Paris-Saclay University, 2023
+*Paris-Saclay University, 2023*
 
 This is our project in the class Méthodes de l'IA (Methods of Artificial Intelligence). The project consists of implementing a Transformer model for sentiment analysis for movie reviews. The model predicts whether a review is good (1), or bad (0). The architecture is based on the Transformer architecture from the paper "Attention is all you need".
 
@@ -44,7 +44,7 @@ This is our project in the class Méthodes de l'IA (Methods of Artificial Intell
 
 ---
 
-Paris Saclay University, 2023
+*Paris Saclay University, 2023*
 
 In this master's course project centered around "unsupervised learning," our primary goals encompass the replication of key findings from the research paper titled "Learning from missing data with the binary latent block model." Additionally, we aim to provide a comprehensive computational overview of the Latent Block Model (LBM) tailored for Missing Not at Random (MNAR) scenarios.
 
@@ -58,7 +58,7 @@ In this master's course project centered around "unsupervised learning," our pri
 
 ---
 
-Paris-Saclay University, 2023
+*Paris-Saclay University, 2023*
 
 In this master's course project, our work focused on the article "Efficient globally optimal segmentation of cells in fluorescence microscopy images using level sets and convex energy functionals". We implemented some of the algorithms presented and created 3 different notebooks to explore the effects of energy functions and its parameters over cell images.
 
@@ -72,7 +72,7 @@ In this master's course project, our work focused on the article "Efficient glob
 
 ---
 
-Paris-Saclay University, 2024
+*Paris-Saclay University, 2024*
 
 In this masters course project of Optimization for Computer Vision I aimed to analyze an article focused on Optimization and computer vision, construct a report and implement some of the algorithms presented. I chose to work on the paper: Ultrasound speckle reduction using adaptive wavelet thresholding presented by Anterpreet Kaur Bedi and Ramesh Kumar Sunkaria in 2022.
 
@@ -86,7 +86,7 @@ In this masters course project of Optimization for Computer Vision I aimed to an
 
 ---
 
-Paris-Saclay University, 2024
+*Paris-Saclay University, 2024*
 
 For our final project, we've focused on the paper titled "A Principal Components Method to Impute Missing Values for Mixed Data"
 
@@ -100,7 +100,7 @@ For our final project, we've focused on the paper titled "A Principal Components
 
 ---
 
-Paris-Saclay University, 2024
+*Paris-Saclay University, 2024*
 
 For our final project, we've delved into the realm of variational inference, focusing specifically on the paper titled "Automatic Differentiation Variational Inference". Our primary goal is to understand and implement the Automatic Differentiation Variational Inference (ADVI) algorithm proposed in the paper. This technique automates variational inference for complex probabilistic models, enabling its application to large datasets efficiently.
 
