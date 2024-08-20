@@ -39,14 +39,14 @@ redirect_from:
 
 ---
 
-* **Research Internship**
+* **Research Internship INRIA-IDESP**
   * April 2024 - September 2024
   * *INRIA-IDESP*, Montpellier, France
   * "State of the art in policy learning"
   * Content: Statistics, Causal inference, Policy learning, Optimization, Machine learning
   * Supervisors: Julie Josse, Antoine Chambaz
 
-* **Research Intenship**
+* **Research Intenship GSK**
   * April 2023 - July 2023 
   * *GSK*, Rixensart, Belgium
   * "A contribution to understanding sequencing precision"
@@ -57,7 +57,7 @@ redirect_from:
   * *International Civil Service (SCI)*, Flensburg, Germany
   * Help reforming a climatic park (Artefakt center)
 
-* **Research Internship**
+* **Research Internship IJCLab**
   * April 2021 - May 2021
   * *IJCLab, Laboratory 2 Infinis Irene Joliot Curie, health department*, Orsay, France
   * "Modeling cerebral tumor growth"
