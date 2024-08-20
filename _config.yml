@@ -39,7 +39,7 @@ author:
   kaggle           : "solaryas"
 
   # Social media
-  linkedin         : "laura-fuentes-vicente-739549255"
+  linkedin         : laura-fuentes-vicente-739549255
 
 
 # Publication Category - The following the list of publication categories and their headings
@@ -64,6 +64,10 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -163,25 +167,34 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  talks:
+  portfolio:
     output: true
     permalink: /:collection/:path/
-  projects:
+  talks:
     output: true
     permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _projects
+  # _posts
   - scope:
       path: ""
-      type: projects
+      type: posts
     values:
       layout: single
       author_profile: true
+      read_time: true
+      comments: true
       share: true
-      comments: false
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _teaching
   - scope:
       path: ""
@@ -190,7 +203,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: false
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -199,7 +212,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: false
+      comments: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
