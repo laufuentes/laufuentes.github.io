@@ -1,5 +1,5 @@
 ---
-title: "M2 Graphical Models and Discrete Inference Learning project"
+title: "M2 Graphical Models and Discrete Inference Learning"
 collection: projects
 category: manuscripts
 permalink: /projects/M2-OVO-Project
