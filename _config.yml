@@ -39,7 +39,7 @@ author:
   kaggle           : "solaryas"
 
   # Social media
-  linkedin         : "Laura Fuentes Vicente"
+  linkedin         : "laura fuentes vicente 739549255"
 
 
 # Publication Category - The following the list of publication categories and their headings
@@ -64,10 +64,6 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -167,10 +163,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
+  talks:
     output: true
     permalink: /:collection/:path/
-  talks:
+  projects:
     output: true
     permalink: /:collection/:path/
 
@@ -185,6 +181,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      comments: false
   # _teaching
   - scope:
       path: ""
