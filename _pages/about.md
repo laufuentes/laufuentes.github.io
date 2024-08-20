@@ -7,8 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello there, I'm Laura!
-======
+## Hello there, I'm Laura!
+
+---
+
 
 👩🏽‍💻 I'm a final-year master's student in Mathematics and Artificial Intelligence at Paris-Saclay University. 
 
