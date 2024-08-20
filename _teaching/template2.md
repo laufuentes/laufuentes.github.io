@@ -1,5 +1,5 @@
 ---
-title: "TEaching experience template 2"
+title: "Teaching experience template 2"
 collection: teaching
 type: "Class"
 permalink: /teaching/template2
