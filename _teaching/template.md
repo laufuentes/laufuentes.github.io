@@ -1,12 +1,12 @@
 ---
-title: " "
+title: "Template"
 collection: teaching
-type: " "
-permalink: /teaching/2014-spring-teaching-1
+type: "template"
+permalink: /teaching/template
 venue: "University, Department"
 date: 2024-01-01
 location: "City, Country"
 ---
 
-Heading 1
+Template
 ======
