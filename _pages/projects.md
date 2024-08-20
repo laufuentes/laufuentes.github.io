@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-L3 Bio mathematics project
+## L3 Bio mathematics project
 ======
 Paris-Saclay University, 2022
 
@@ -15,7 +15,7 @@ This report was written as part of the Bio-mathematics Project Teaching Unit in 
 
 [Download report](https://laufuentes.github.io/files/Rapport_Projet.pdf)
 
-M1 Data Challenge
+## M1 Data Challenge
 ======
 Paris-Saclay University, 2022
 
@@ -23,7 +23,7 @@ In the first year of the Master's program in Mathematics and Artificial Intellig
 
 [Download report](https://laufuentes.github.io/files/GOLZ_FUENTES.pdf)
 
-M1 Transformer architecture
+## M1 Transformer architecture
 ======
 Paris-Saclay University, 2023
 
@@ -34,7 +34,7 @@ This is our project in the class Méthodes de l'IA (Methods of Artificial Intell
 [Download report](https://laufuentes.github.io/files/GOLZ_FUENTES_MethodesIA2.pdf)
 
 
-M2 Unsupervised Learning
+## M2 Unsupervised Learning
 ======
 Paris Saclay University, 2023
 
@@ -46,7 +46,7 @@ In this master's course project centered around "unsupervised learning," our pri
 [Download slides](http://laufuentes.github.io/files/Slides_Reyero_Fuentes.pdf)
 
 
-M2 Medical Image Analysis
+## M2 Medical Image Analysis
 ======
 Paris-Saclay University, 2023
 
@@ -58,7 +58,7 @@ In this master's course project, our work focused on the article "Efficient glob
 [Download slides](http://laufuentes.github.io/files/Slides_Aguirre_Fuentes.pdf)
 
 
-M2 Optimization for Computer Vision
+## M2 Optimization for Computer Vision
 ======
 Paris-Saclay University, 2024
 
@@ -70,7 +70,7 @@ In this masters course project of Optimization for Computer Vision I aimed to an
 [Download slides](http://laufuentes.github.io/files/OVO_Slides_Laura_Fuentes.pdf)
 
 
-M2 Guides in Machine Learning
+## M2 Guides in Machine Learning
 ======
 Paris-Saclay University, 2024
 
@@ -82,7 +82,7 @@ For our final project, we've focused on the paper titled "A Principal Components
 [Download slides](http://laufuentes.github.io/files/Slides_ADJEVI_FUENTES.pdf)
 
 
-M2 Graphical Models and Discrete Inference Learning
+## M2 Graphical Models and Discrete Inference Learning
 ======
 Paris-Saclay University, 2024
 

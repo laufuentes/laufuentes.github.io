@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * Ph.D in Policy Learning and Causal Inference
   * 2024 - 2027 (expected)
@@ -33,7 +33,7 @@ Education
   * Content: 
 
 
-Professional experience
+## Professional experiences
 ======
 * April 2024 - September 2024: Research Internship
   * INRIA-IDESP
@@ -64,7 +64,7 @@ Professional experience
   * Rome, Italy
   * Help with the weeding, seed and harvest in a Community Supported Agriculture
   
-Skills
+## Skills
 ======
 * Languages
   * Spanish (Native)
@@ -79,19 +79,19 @@ Skills
   * iOS, Windows, Microsoft, Google
   * Wordpress
 
-Publications
+## Publications
 ======
 <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+## Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+## Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
