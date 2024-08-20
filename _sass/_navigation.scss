@@ -181,11 +181,11 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: #03316e;
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #02224c;
     }
   }
 
@@ -234,7 +234,7 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: mix(#fff, $primary-color, 50%);
+        background: mix(#fff, #02224c, 50%);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
