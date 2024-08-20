@@ -184,6 +184,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      share: true
   # _teaching
   - scope:
       path: ""
@@ -191,7 +192,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: false
   # _publications
   - scope:
@@ -200,7 +201,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: false
   # _talks
   - scope:
@@ -209,7 +210,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: false
+      share: true
 
 
 # Sass/SCSS
