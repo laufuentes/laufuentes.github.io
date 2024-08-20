@@ -1,7 +1,7 @@
 ---
-title: "Template"
+title: "Template 2"
 collection: teaching
-type: "template2"
+type: "Class"
 permalink: /teaching/template2
 venue: "University, Department"
 date: 2024-01-01
