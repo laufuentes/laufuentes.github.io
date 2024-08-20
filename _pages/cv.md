@@ -52,7 +52,7 @@ redirect_from:
   * "A contribution to understanding sequencing precision"
   * Content: Classification, Linear models, Optimal transport, Machine learning, Bio-informatics, HPC
 
-*  **Volunteering**
+* **Volunteering**
   * July 2022
   * *International Civil Service (SCI)*, Flensburg, Germany
   * Help reforming a climatic park (Artefakt center)
