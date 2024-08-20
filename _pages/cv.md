@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Policy Learning and Causal Inference, INRIA-IDESP Montpellier University & MAP5 Paris Cité University, 2027 (expected)
+* Ph.D in Policy Learning and Causal Inference
+  * 2024 - 2027 (expected)
+  * INRIA-IDESP Montpellier University & MAP5 Paris Cité University
 
 * M.S. in Mathematics and Artificial Intelligence
   * 2023-2024: M2 
