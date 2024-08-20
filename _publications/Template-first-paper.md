@@ -1,5 +1,5 @@
 ---
-title: "Paper Template"
+title: "Paper Template 1"
 collection: publications
 category: manuscripts
 permalink: /publication/Template-first-paper

@@ -1,5 +1,5 @@
 ---
-title: "Talk template"
+title: "Talk template 2"
 collection: talks
 type: "Talk"
 permalink: /talks/Template-secind-talk
