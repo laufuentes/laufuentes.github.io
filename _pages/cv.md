@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+
+---
+
 * Ph.D in Policy Learning and Causal Inference
   * 2024 - 2027 (expected)
   * INRIA-IDESP Montpellier University & MAP5 Paris Cité University
@@ -34,7 +36,9 @@ redirect_from:
 
 
 ## Professional experiences
-======
+
+---
+
 * April 2024 - September 2024: Research Internship
   * INRIA-IDESP
   * Montpellier, France
@@ -65,7 +69,9 @@ redirect_from:
   * Help with the weeding, seed and harvest in a Community Supported Agriculture
   
 ## Skills
-======
+
+---
+
 * Languages
   * Spanish (Native)
   * French (C1)
@@ -80,19 +86,25 @@ redirect_from:
   * Wordpress
 
 ## Publications
-======
+
+---
+
 <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ## Talks
-======
+
+--- 
+
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 ## Teaching
-======
+
+--- 
+
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
