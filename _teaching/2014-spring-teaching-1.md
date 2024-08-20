@@ -1,14 +1,12 @@
 ---
-title: "Teaching experience 1"
+title: " "
 collection: teaching
-type: "Undergraduate course"
+type: " "
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+venue: "University, Department"
+date: 2024-01-01
 location: "City, Country"
 ---
-
-This is a template description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
