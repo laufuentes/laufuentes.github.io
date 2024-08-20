@@ -39,46 +39,47 @@ redirect_from:
 
 ---
 
-* April 2024 - September 2024: Research Internship
-  * *INRIA-IDESP*
-  * Montpellier, France
+* **Research Internship**
+  * April 2024 - September 2024
+  * *INRIA-IDESP*, Montpellier, France
   * "State of the art in policy learning"
   * Content: Statistics, Causal inference, Policy learning, Optimization, Machine learning
-  * Supervisor: Julie Josse
+  * Supervisors: Julie Josse, Antoine Chambaz
 
-* April 2023 - July 2023: Research Intenship
-  * *GSK* 
-  * Rixensart, Belgium
+* **Research Intenship**
+  * April 2023 - July 2023 
+  * *GSK*, Rixensart, Belgium
   * "A contribution to understanding sequencing precision"
   * Content: Classification, Linear models, Optimal transport, Machine learning, Bio-informatics, HPC
 
-* July 2022: Volunteering 
-  * *International Civil Service (SCI)*
-  * Flensburg, Germany
+*  **Volunteering**
+  * July 2022
+  * *International Civil Service (SCI)*, Flensburg, Germany
   * Help reforming a climatic park (Artefakt center)
 
-* April 2021 - May 2021: Research Internship
-  * *IJCLab, Laboratory 2 Infinis Irene Joliot Curie, health department*
+* **Research Internship**
+  * April 2021 - May 2021
+  * *IJCLab, Laboratory 2 Infinis Irene Joliot Curie, health department*, Orsay, France
   * "Modeling cerebral tumor growth"
   * Study of the effect of Radiotherapy on low grade diffuse gliomas with a partial differential equation (Fisher-Kolmogorov), in Python
-  * Supervisor: Mathilde Badoual, Sabir Jacquir
+  * Supervisors: Mathilde Badoual, Sabir Jacquir
 
-* August 2021: Volunteering 
-  * *International Civil Service (SCI)*
-  * Rome, Italy
+* **Volunteering**
+  * August 2021
+  * *International Civil Service (SCI)*, Rome, Italy
   * Help with the weeding, seed and harvest in a Community Supported Agriculture
   
 ## Skills
 
 ---
 
-* Languages
+* **Languages**
   * Spanish (Native)
   * French (C1)
   * English (C1)
   * Italian (B2)
 
-* Computer Science skills
+* **Computer Science skills**
   * Python, R, PyTorch, LaTeX, GitHub
   * Samtools, Minimap, HPC
   * Excel, Powerpoint, Word, Teams
