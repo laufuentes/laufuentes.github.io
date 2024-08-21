@@ -181,11 +181,11 @@
       display: block;
       margin: 0 1rem;
       padding: 0.5rem 0;
-      color: #03316e;
+      color: #fff;
       text-decoration: none;
   
       &:hover {
-        color: #02224c;
+        color: #fff;
       }
     }
   
@@ -234,7 +234,7 @@
           left: 0;
           bottom: 0;
           height: 4px;
-          background: mix(#fff, #02224c, 50%);
+          background: $light-gray;
           width: 100%;
           -webkit-transition: $global-transition;
           transition: $global-transition;
