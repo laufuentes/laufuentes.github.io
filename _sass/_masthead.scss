@@ -4,9 +4,8 @@
 
    .masthead {
     position: fixed;
-    background-color: #012a63;  /* Blue background */
-    color: #fff;
-    border-bottom: 1px solid #012a63;
+    background: #022c63;
+    border-bottom: 1px solid #fff;
     height: $masthead-height;
     top: 0;
     width: 100%;
@@ -33,6 +32,7 @@
   
       a {
         text-decoration: none;
+        color: #fff;
       }
     }
   }
@@ -51,23 +51,9 @@
     display: block;
     list-style-type: none;
     white-space: nowrap;
-    padding-right: 2em;
-    background-color: #012a63;
   
     &--lg {
       padding-right: 3em;
       font-weight: 700;
     }
-    
-    a {
-      color: #fff; /* Ensuring link text is white */
-      padding: 0.5em 1em; /* Adding padding for better spacing */
-      display: inline-block; /* Ensuring the background color applies correctly */
-      
-      &:hover {
-        color: #ccc; /* Light gray text on hover */
-        text-decoration: none; /* No underline on hover */
-      }
-    }
   }
-  
