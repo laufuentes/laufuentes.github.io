@@ -84,7 +84,7 @@
         text-align: center;
         text-decoration: none;
         color: #fff;
-        border: 1px solid #fff;
+        border: 1px solid #022c63;
         border-radius: 0;
   
         &:hover {
@@ -181,7 +181,7 @@
       display: block;
       margin: 0 1rem;
       padding: 0.5rem 0;
-      color: #022c63;
+      color: #fff;
       text-decoration: none;
   
       &:hover {
@@ -196,7 +196,7 @@
       padding: 0 0.5rem;
       border: 0;
       outline: none;
-      background-color: #022c63;
+      background-color: $primary-color;
       color: #fff;
       cursor: pointer;
       z-index: 100;
