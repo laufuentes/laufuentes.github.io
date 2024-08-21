@@ -50,12 +50,17 @@
     list-style-type: none;
     white-space: nowrap;
 
+    a{
+      color: #fff;
     &--lg {
         padding-right: 3em;
         font-weight: 700;
     }
 
     &:hover {
-        border-bottom: 2px solid #fff; /* White underline on hover */
+      color: #fff; /* Maintain white text on hover */
+      background-color: #022c63; /* Blue background on hover */
+      border-bottom: 2px solid #fff; /* White underline on hover */
+      }
     }
 }
