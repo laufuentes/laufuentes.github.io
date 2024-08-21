@@ -43,14 +43,14 @@ redirect_from:
   * April 2024 - September 2024
   * *INRIA-IDESP*, Montpellier, France
   * "State of the art in policy learning"
-  * Content: Statistics, Causal inference, Policy learning, Optimization, Machine learning
+  * **Content**: Statistics, Causal inference, Policy learning, Optimization, Machine learning
   * Supervisors: Julie Josse, Antoine Chambaz
 
 * ### Research Intenship GSK
   * April 2023 - July 2023 
   * *GSK*, Rixensart, Belgium
   * "A contribution to understanding sequencing precision"
-  * Content: Classification, Linear models, Optimal transport, Machine learning, Bio-informatics, HPC
+  * **Content**: Classification, Linear models, Optimal transport, Machine learning, Bio-informatics, HPC
 
 * ### Volunteering
   * July 2022
@@ -62,6 +62,7 @@ redirect_from:
   * *IJCLab, Laboratory 2 Infinis Irene Joliot Curie, health department*, Orsay, France
   * "Modeling cerebral tumor growth"
   * Study of the effect of Radiotherapy on low grade diffuse gliomas with a partial differential equation (Fisher-Kolmogorov), in Python
+  * **Content**: EDP, Algebra, Python
   * Supervisors: Mathilde Badoual, Sabir Jacquir
 
 * ### Volunteering
