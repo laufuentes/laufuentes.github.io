@@ -4,7 +4,8 @@
 
    .masthead {
     position: fixed;
-    background: #012a63;  /* Blue background */
+    background-color: #012a63;  /* Blue background */
+    color: #fff;
     border-bottom: 1px solid #012a63;
     height: $masthead-height;
     top: 0;
@@ -51,8 +52,7 @@
     list-style-type: none;
     white-space: nowrap;
     padding-right: 2em;
-    background-color: white;  /* White background for text */
-    color: #012a63;  /* Blue text color */
+    color: #fff;  /* White text color */
   
     &--lg {
       padding-right: 3em;
@@ -60,13 +60,13 @@
     }
     
     a {
-      color: #012a63; /* Ensuring link text is blue */
+      color: #fff; /* Ensuring link text is white */
       padding: 0.5em 1em; /* Adding padding for better spacing */
       display: inline-block; /* Ensuring the background color applies correctly */
       
       &:hover {
-        color: #ccc; /* Light gray on hover */
-        background-color: #012a63; /* Blue background on hover */
+        color: #ccc; /* Light gray text on hover */
+        background-color: #012a63; /* Blue background on hover to maintain consistency */
         text-decoration: none; /* No underline on hover */
       }
     }
