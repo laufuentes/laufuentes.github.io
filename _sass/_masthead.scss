@@ -5,7 +5,7 @@
    .masthead {
     position: fixed;
     background: #022c63; /* Blue background */
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid #022c63;
     height: $masthead-height;
     top: 0;
     width: 100%;
@@ -48,19 +48,9 @@
 .masthead__menu-item {
     display: block;
     list-style-type: none;
-    white-space: nowrap;
-
-    a{
-      color: #fff;
+    /*white-space: nowrap;*/
     &--lg {
         padding-right: 3em;
         font-weight: 700;
-    }
-
-    &:hover {
-      color: #fff; /* Maintain white text on hover */
-      background-color: #022c63; /* Blue background on hover */
-      border-bottom: 2px solid #fff; /* White underline on hover */
-      }
     }
 }
