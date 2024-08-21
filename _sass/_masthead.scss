@@ -50,9 +50,17 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  padding-right: 2em;
+  color: #fff; 
 
   &--lg {
     padding-right: 3em;
     font-weight: 700;
+  }
+  a {
+    color: #fff; /* Ensuring link text is white */
+    &:hover {
+      color: #ccc; /* Light gray on hover */
+    }
   }
 }
