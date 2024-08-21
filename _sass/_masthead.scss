@@ -52,7 +52,7 @@
     list-style-type: none;
     white-space: nowrap;
     padding-right: 2em;
-    color: #fff;  /* White text color */
+    background-color: #012a63;
   
     &--lg {
       padding-right: 3em;
@@ -66,7 +66,6 @@
       
       &:hover {
         color: #ccc; /* Light gray text on hover */
-        background-color: #012a63; /* Blue background on hover to maintain consistency */
         text-decoration: none; /* No underline on hover */
       }
     }
