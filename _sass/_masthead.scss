@@ -32,7 +32,6 @@
   
       a {
         text-decoration: none;
-        color: #fff;
       }
     }
   }
@@ -56,4 +55,7 @@
       padding-right: 3em;
       font-weight: 700;
     }
+    &:hover {
+      border-bottom: 2px solid #fff; /* White underline on hover */
+  }
   }
