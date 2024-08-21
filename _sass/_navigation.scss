@@ -88,7 +88,7 @@
         border-radius: 0;
   
         &:hover {
-          color: #fff;
+          color: rgb(3, 61, 141);
         }
   
         &.current {
@@ -185,7 +185,7 @@
       text-decoration: none;
   
       &:hover {
-        color: #fff;
+        color: #02224c;
       }
     }
   
@@ -234,7 +234,7 @@
           left: 0;
           bottom: 0;
           height: 4px;
-          background: $light-gray;
+          background: mix(#fff, #02224c, 50%);
           width: 100%;
           -webkit-transition: $global-transition;
           transition: $global-transition;
@@ -376,7 +376,7 @@
     color: $gray;
     text-transform: uppercase;
     letter-spacing: 1px;
-    background-color: #fff;
+    background-color: #022c63;
     border: 1px solid $border-color;
     border-radius: $border-radius;
     box-shadow: $box-shadow;
@@ -407,7 +407,7 @@
       border-bottom: 1px solid $border-color;
   
       &:hover {
-        color: #fff;
+        color: #022c63;
         background: #02224c;
       }
     }
