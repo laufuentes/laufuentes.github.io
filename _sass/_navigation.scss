@@ -83,8 +83,8 @@
         line-height: 1.5;
         text-align: center;
         text-decoration: none;
-        color: #022c63;
-        border: 1px solid #022c63;
+        color: #fff;
+        border: 1px solid #fff;
         border-radius: 0;
   
         &:hover {
@@ -181,11 +181,11 @@
       display: block;
       margin: 0 1rem;
       padding: 0.5rem 0;
-      color: #fff;
+      color: #022c63;
       text-decoration: none;
   
       &:hover {
-        color: #fff;
+        color: #022c63;
       }
     }
   
@@ -197,7 +197,7 @@
       border: 0;
       outline: none;
       background-color: $primary-color;
-      color: #fff;
+      color: #022c63;
       cursor: pointer;
       z-index: 100;
     }
