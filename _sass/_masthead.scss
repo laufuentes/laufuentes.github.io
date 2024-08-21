@@ -2,65 +2,73 @@
    MASTHEAD
    ========================================================================== */
 
-.masthead {
-  position: fixed;
-  background: #012a63;
-  border-bottom: 1px solid #012a63;
-  height: $masthead-height;
-  top: 0;
-  width: 100%;
-
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
-  z-index: 20;
-
-  &__inner-wrap {
-    @include container;
-    @include clearfix;
-    padding: 1em 1em 1em;
-    font-family: $sans-serif-narrow;
-
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
-
-    nav {
-      z-index: 10;
-    }
-
-    a {
-      text-decoration: none;
+   .masthead {
+    position: fixed;
+    background: #012a63;  /* Blue background */
+    border-bottom: 1px solid #012a63;
+    height: $masthead-height;
+    top: 0;
+    width: 100%;
+  
+    -webkit-animation: intro 0.3s both;
+            animation: intro 0.3s both;
+    -webkit-animation-delay: 0.15s;
+            animation-delay: 0.15s;
+    z-index: 20;
+  
+    &__inner-wrap {
+      @include container;
+      @include clearfix;
+      padding: 1em 1em 1em;
+      font-family: $sans-serif-narrow;
+  
+      @include breakpoint($x-large) {
+        max-width: $x-large;
+      }
+  
+      nav {
+        z-index: 10;
+      }
+  
+      a {
+        text-decoration: none;
+      }
     }
   }
-}
-
-.masthead__menu {
-
-  ul {
-    margin: 0;
-    padding: 0;
-    clear: both;
+  
+  .masthead__menu {
+  
+    ul {
+      margin: 0;
+      padding: 0;
+      clear: both;
+      list-style-type: none;
+    }
+  }
+  
+  .masthead__menu-item {
+    display: block;
     list-style-type: none;
-  }
-}
-
-.masthead__menu-item {
-  display: block;
-  list-style-type: none;
-  white-space: nowrap;
-  padding-right: 2em;
-  color: #fff; 
-
-  &--lg {
-    padding-right: 3em;
-    font-weight: 700;
-  }
-  a {
-    color: #fff; /* Ensuring link text is white */
-    &:hover {
-      color: #ccc; /* Light gray on hover */
+    white-space: nowrap;
+    padding-right: 2em;
+    background-color: white;  /* White background for text */
+    color: #012a63;  /* Blue text color */
+  
+    &--lg {
+      padding-right: 3em;
+      font-weight: 700;
+    }
+    
+    a {
+      color: #012a63; /* Ensuring link text is blue */
+      padding: 0.5em 1em; /* Adding padding for better spacing */
+      display: inline-block; /* Ensuring the background color applies correctly */
+      
+      &:hover {
+        color: #ccc; /* Light gray on hover */
+        background-color: #012a63; /* Blue background on hover */
+        text-decoration: none; /* No underline on hover */
+      }
     }
   }
-}
+  
