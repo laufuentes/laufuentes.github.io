@@ -60,3 +60,16 @@
         border-bottom: 2px solid #fff; /* White underline on hover */
     }
 }
+
+@keyframes intro {
+    0% {
+        opacity: 0;
+        background-color: #022c63; /* Blue background */
+        color: white; /* White text */
+    }
+    100% {
+        opacity: 1;
+        background-color: #022c63; /* Blue background */
+        color: white; /* White text */
+    }
+}
