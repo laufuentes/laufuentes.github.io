@@ -196,7 +196,7 @@
       padding: 0 0.5rem;
       border: 0;
       outline: none;
-      background-color: #022c63 ;
+      background-color: $primary-color;
       color: #fff;
       cursor: pointer;
       z-index: 100;
@@ -373,7 +373,7 @@
   
   .toc {
     font-family: $sans-serif-narrow;
-    color: $gray;
+    color: #022c63;
     text-transform: uppercase;
     letter-spacing: 1px;
     background-color: #022c63;
