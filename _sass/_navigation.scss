@@ -373,10 +373,10 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  color: #fff;
   text-transform: uppercase;
   letter-spacing: 1px;
-  background-color: #022c63;
+  background-color: #012a63;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   box-shadow: $box-shadow;
@@ -401,6 +401,7 @@
     display: block;
     padding: 0.5rem 1rem;
     color: #fff;
+    background: #012a63;
     font-size: $type-size-7;
     font-weight: bold;
     line-height: 1.5;
@@ -408,7 +409,7 @@
 
     &:hover {
       color: #fff;
-      background: #fff;
+      background: #004a99;
     }
   }
 

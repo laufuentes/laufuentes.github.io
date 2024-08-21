@@ -4,8 +4,8 @@
 
 .masthead {
   position: fixed;
-  background: rgb(3, 61, 141);
-  border-bottom: 1px solid rgb(3, 61, 141);
+  background: #012a63;
+  border-bottom: 1px solid #012a63;
   height: $masthead-height;
   top: 0;
   width: 100%;
@@ -32,6 +32,7 @@
 
     a {
       text-decoration: none;
+      color: #fff;
     }
   }
 }
