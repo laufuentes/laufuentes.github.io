@@ -4,55 +4,59 @@
 
    .masthead {
     position: fixed;
-    background: #022c63;
+    background: #022c63; /* Blue background */
     border-bottom: 1px solid #fff;
     height: $masthead-height;
     top: 0;
     width: 100%;
-  
+
     -webkit-animation: intro 0.3s both;
             animation: intro 0.3s both;
     -webkit-animation-delay: 0.15s;
             animation-delay: 0.15s;
     z-index: 20;
-  
+
     &__inner-wrap {
-      @include container;
-      @include clearfix;
-      padding: 1em 1em 1em;
-      font-family: $sans-serif-narrow;
-  
-      @include breakpoint($x-large) {
-        max-width: $x-large;
-      }
-  
-      nav {
-        z-index: 10;
-      }
-  
-      a {
-        text-decoration: none;
-      }
+        @include container;
+        @include clearfix;
+        padding: 1em 1em 1em;
+        font-family: $sans-serif-narrow;
+
+        @include breakpoint($x-large) {
+            max-width: $x-large;
+        }
+
+        nav {
+            z-index: 10;
+        }
+
+        a {
+            text-decoration: none;
+            color: #fff; /* White text */
+        }
     }
-  }
-  
-  .masthead__menu {
-  
+}
+
+.masthead__menu {
     ul {
-      margin: 0;
-      padding: 0;
-      clear: both;
-      list-style-type: none;
+        margin: 0;
+        padding: 0;
+        clear: both;
+        list-style-type: none;
     }
-  }
-  
-  .masthead__menu-item {
+}
+
+.masthead__menu-item {
     display: block;
     list-style-type: none;
     white-space: nowrap;
-  
+
     &--lg {
-      padding-right: 3em;
-      font-weight: 700;
+        padding-right: 3em;
+        font-weight: 700;
     }
-  }
+
+    &:hover {
+        border-bottom: 2px solid #fff; /* White underline on hover */
+    }
+}
