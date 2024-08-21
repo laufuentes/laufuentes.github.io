@@ -97,7 +97,7 @@
         }
   
         &.disabled {
-          color: mix(#fff, #022c63, 75%);
+          color: mix(#fff, $gray, 75%);
           pointer-events: none;
           cursor: not-allowed;
         }
@@ -131,7 +131,7 @@
       font-weight: bold;
       text-align: center;
       text-decoration: none;
-      color: mix(#fff, #022c63, 50%);
+      color: mix(#fff, $gray, 50%);
       border: 1px solid $light-gray;
       border-radius: $border-radius;
   
@@ -151,7 +151,7 @@
       }
   
       &.disabled {
-        color: mix(#fff, #022c63, 75%);
+        color: mix(#fff, $gray, 75%);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -382,7 +382,7 @@
     box-shadow: $box-shadow;
   
     .nav__title {
-      color: #022c63;
+      color: #fff;
       font-size: $type-size-6;
       background: $primary-color;
       border-top-left-radius: $border-radius;
