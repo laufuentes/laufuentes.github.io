@@ -25,14 +25,14 @@ redirect_from:
     * *Paris-Saclay University*
     * Content: Statistical learning, Probability, Optimization, Supervised & non-supervised learning, Machine learning, Databases, Deep learning
 
-  * LAUREATE SCHOLARSHIP MIXTAI: Criterion Excellence 
+  * LAUREATE SCHOLARSHIP MixtAI: Criterion Excellence 
     * 2022-2023 & 2023-2024
     * *DataIA, Paris-Saclay University*
 
 * ### B.S. in Mathematics and Life Science, Paris-Saclay University
   * 2019-2022
   * *Paris-Saclay University*
-  * Content: Algebra, Analysis, Probability, ODEs, Statistics, Algebraic structures, Differential calculus, Integration, Celular biology, Molecular biology, Evolution, Ecology, Bio-chemestry, Genetics, Animal ang vegetal physiology
+  * Content: Algebra, Analysis, Probability, ODEs, Statistics, Algebraic structures, Differential calculus, Integration, Celular biology, Molecular biology, Evolution, Ecology, Bio-chemestry, Genetics, Animal and vegetal physiology
 
 
 ## Professional experiences
