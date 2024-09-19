@@ -15,9 +15,9 @@ redirect_from:
 
 * ### Ph.D in Policy Learning and Causal Inference
   * 2024 - 2027 (expected)
+   * Supervisors: [Antoine Chambaz](https://helios2.mi.parisdescartes.fr/~chambaz/) and [Julie Josse](https://juliejosse.com/)
   * *[PreMeDICaL](https://team.inria.fr/premedical/) INRIA-IDESP Montpellier University & [MAP5](https://map5.mi.parisdescartes.fr) Paris Cité University*
-  * Supervisors: [Antoine Chambaz](https://helios2.mi.parisdescartes.fr/~chambaz/) & [Julie Josse](https://juliejosse.com/)
-  * [EDI2S](https://edi2s.umontpellier.fr/) Biostatistics department, [ANITI](https://aniti.univ-toulouse.fr) and [Occitanie](https://www.laregion.fr)
+  * Doctoral school and fundings: [EDI2S](https://edi2s.umontpellier.fr/) biostatistics department, [ANITI](https://aniti.univ-toulouse.fr) and [Occitanie](https://www.laregion.fr)
 
 * ### M.S. in Mathematics and Artificial Intelligence
   * 2023-2024: Second year [(M2)](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/m2-mathematique-et-intelligence-artificielle/) 
