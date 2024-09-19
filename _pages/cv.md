@@ -16,12 +16,14 @@ redirect_from:
 * ### Ph.D in Policy Learning and Causal Inference
   * 2024 - 2027 (expected)
   * *[PreMeDICaL](https://team.inria.fr/premedical/) INRIA-IDESP Montpellier University & [MAP5](https://map5.mi.parisdescartes.fr) Paris Cité University*
+  * Supervisors: [Antoine Chambaz](https://helios2.mi.parisdescartes.fr/~chambaz/) & [Julie Josse](https://juliejosse.com/)
+  * [EDI2S](https://edi2s.umontpellier.fr/) Biostatistics department, [ANITI](https://aniti.univ-toulouse.fr) and [Occitanie](https://www.laregion.fr)
 
 * ### M.S. in Mathematics and Artificial Intelligence
-  * 2023-2024: [M2](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/m2-mathematique-et-intelligence-artificielle/) 
+  * 2023-2024: Second year [(M2)](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/m2-mathematique-et-intelligence-artificielle/) 
     * *Paris-Saclay University, CentraleSupelec, ENS Paris-Saclay*
     * Content: Supervised & non-supervised learning, Reinforced learning, Optimization for computer vision, Statistics in high dimension, Medical Image analysis, Bayesian statistics, Graphical models
-  * 2022-2023: [M1](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m1/mathematiques-et-intelligence-artificielle/)
+  * 2022-2023: First year [(M1)](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m1/mathematiques-et-intelligence-artificielle/)
     * *Paris-Saclay University*
     * Content: Statistical learning, Probability, Optimization, Supervised & non-supervised learning, Machine learning, Databases, Deep learning
 
