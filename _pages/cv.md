@@ -22,10 +22,10 @@ redirect_from:
 * ### M.S. in Mathematics and Artificial Intelligence
   * 2023-2024: Second year [(M2)](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/m2-mathematique-et-intelligence-artificielle/) 
     * *Paris-Saclay University, CentraleSupelec, ENS Paris-Saclay*
-    * Content: Supervised & non-supervised learning, Reinforced learning, Optimization for computer vision, Statistics in high dimension, Medical Image analysis, Bayesian statistics, Graphical models
+    * **Content**: Supervised & non-supervised learning, Reinforced learning, Optimization for computer vision, Statistics in high dimension, Medical Image analysis, Bayesian statistics, Graphical models
   * 2022-2023: First year [(M1)](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m1/mathematiques-et-intelligence-artificielle/)
     * *Paris-Saclay University*
-    * Content: Statistical learning, Probability, Optimization, Supervised & non-supervised learning, Machine learning, Databases, Deep learning
+    * **Content**: Statistical learning, Probability, Optimization, Supervised & non-supervised learning, Machine learning, Databases, Deep learning
 
   * LAUREATE SCHOLARSHIP MixtAI: Criterion Excellence 
     * 2022-2023 & 2023-2024
@@ -34,7 +34,7 @@ redirect_from:
 * ### B.S. in Mathematics and Life Science, Paris-Saclay University
   * 2019-2022
   * *Paris-Saclay University* [link](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie.)
-  * Content: Algebra, Analysis, Probability, ODEs, Statistics, Algebraic structures, Differential calculus, Integration, Celular biology, Molecular biology, Evolution, Ecology, Bio-chemestry, Genetics, Animal and vegetal physiology
+  * **Content**: Algebra, Analysis, Probability, ODEs, Statistics, Algebraic structures, Differential calculus, Integration, Celular biology, Molecular biology, Evolution, Ecology, Bio-chemestry, Genetics, Animal and vegetal physiology
 
 
 ## Professional experiences
