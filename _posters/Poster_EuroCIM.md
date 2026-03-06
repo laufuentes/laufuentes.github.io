@@ -14,6 +14,7 @@ location: "Ghent, Belgium"
 
 I had the pleasure of presenting my first year of PhD research on policy learning under constraint in the poster session.
 
+[Download poster](http://laufuentes.github.io/files/Poster_Eurocim_LFV_Final_NT.pdf)
+
 <div style="clear: both;"></div>
 
-[Download poster](http://laufuentes.github.io/files/Poster_Eurocim_LFV_Final_NT.pdf)
