@@ -20,34 +20,34 @@ Short bio
   <h3 class="news-box__title">News & Highlights</h3>
   <div class="news-box__scroll">
   <div class="news-item">
-      <span class="news-item__date">February 2026</span>
-      <span class="news-item__text"> Abstract accepted for an oral presentation at EuroCIM 2026!</span>
+      <span class="news-item__date"> 02/2026</span>
+      <span class="news-item__text"> 🎉 Abstract accepted for an oral presentation at EuroCIM 2026!</span>
     </div>
 
   <div class="news-item">
-      <span class="news-item__date">Jan 2026</span>
-      <span class="news-item__text"> New preprint out on Policy Learning Under Constraint — <a href="https://arxiv.org/abs/2601.22717">arXiv</a></span>
+      <span class="news-item__date"> 01/2026</span>
+      <span class="news-item__text"> 🎉 New preprint out on Policy Learning Under Constraint — <a href="https://arxiv.org/abs/2601.22717">arXiv</a></span>
     </div>
 
    <div class="news-item">
-    <span class="news-item__date">April 2025</span>
-    <span class="news-item__text"> Participated with the PreMeDICaL team in the Ekiden marathon of Montpellier 🏃‍♀️. </span>
+    <span class="news-item__date"> 04/2025</span>
+    <span class="news-item__text"> 🏃‍♀️ Participated with the PreMeDICaL team in the Ekiden marathon of Montpellier. </span>
   </div>
 
   <div class="news-item">
-    <span class="news-item__date">July 2025</span>
-    <span class="news-item__text">Honored to deliver a speech at the graduation ceremony for my MSc in Mathematics and Artificial Intelligence.</span>
+    <span class="news-item__date"> 07/2025</span>
+    <span class="news-item__text"> 🎓 Honored to deliver a speech at the graduation ceremony for my MSc in Mathematics and Artificial Intelligence. </span>
 </div>
 <div class="news-item">
-  <span class="news-item__date">January 2025</span>
-  <span class="news-item__text">Featured as an alumni testimonial in the promotional video for the MSc in Mathematics and Artificial Intelligence.</span>
+  <span class="news-item__date"> 01/2025</span>
+  <span class="news-item__text"> 🎥 Featured as an alumni testimonial in the promotional video for the MSc in Mathematics and Artificial Intelligence. </span>
 </div>
   </div>
 </div>
 
 <style>
 .news-box {
-  background: var(--color-accent-soft);
+  background: #ecdcf8;
   border: 1px solid var(--color-border);
   border-left: 4px solid var(--color-accent);
   border-radius: 10px;
@@ -61,7 +61,7 @@ Short bio
   margin: 0 0 1rem 0;
 }
 .news-box__scroll {
-  max-height: 180px;
+  max-height: 120px;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
