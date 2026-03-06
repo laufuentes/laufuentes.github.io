@@ -5,24 +5,24 @@
 <style>
   .masthead__menu-item.has-dropdown { position: relative; }
   .dropdown-menu {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    background: var(--color-accent);
-    border: 1px solid var(--color-accent);
-    min-width: 150px;
-    z-index: 1000;
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    border-radius: 0 0 8px 8px;
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background: var(--color-accent);
+  border: none;
+  min-width: 150px;
+  z-index: 1000;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  border-radius: 0 0 8px 8px;
 }
-  .dropdown-menu li a {
+.dropdown-menu li a {
   display: block;
   padding: 8px 16px;
   white-space: nowrap;
-  color: #fff !important;
+  color: var(--color-text) !important;
 }
 .dropdown-menu li a:hover { background: rgba(255,255,255,0.15); }
 .masthead__social {
