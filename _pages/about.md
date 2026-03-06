@@ -45,13 +45,15 @@ Short bio
 </div>
 
 <style>
-.news-box {
+  .news-box {
   background: #efebf3;
   border: 1px solid var(--color-border);
   border-left: 4px solid var(--color-accent);
   border-radius: 10px;
   padding: 1.2rem 1.5rem;
-  margin: 2rem 0;
+  margin: 2rem 0 0 auto;
+  width: 55%;
+  float: right;
 }
 .news-box__title {
   font-family: var(--font-display);
