@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Projects"
+title: "Projects & Softwares"
 permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
-
-<div class="cv-section">
-<h2 class="cv-section__title">Projects & Softwares</h2>
 
 <div class="cv-card">
   <div class="cv-card__header">
