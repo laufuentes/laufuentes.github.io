@@ -131,14 +131,6 @@ redirect_from:
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">SCHOLARSHIP MixtAI: Criterion Excellence</span>
-    <span class="cv-card__date">2023-2024</span>
-  </div>
-  <div class="cv-card__institution">DataIA, Paris-Saclay University</div>
-</div>
-
-<div class="cv-card">
-  <div class="cv-card__header">
-    <span class="cv-card__degree">SCHOLARSHIP MixtAI: Criterion Excellence</span>
     <span class="cv-card__date">2022-2023 & 2023-2024</span>
   </div>
   <div class="cv-card__institution">DataIA, Paris-Saclay University</div>
@@ -147,13 +139,12 @@ redirect_from:
 </div>
 
 <div class="cv-section">
-<h2 class="cv-section__title">Skills</h2>
+<h2 class="cv-section__title">Programming Skills</h2>
 
 <div class="cv-card">
   <div class="cv-card__header">
-    <span class="cv-card__degree">Programming</span>
+    <span class="cv-card__degree">R, Python, PyTorch, LaTeX, GitHub, Samtools, Minimap, HPC, Excel, Powerpoint, Word, Teams, iOS, Windows, Microsoft, Google.</span>
   </div>
-  <div class="cv-card__description">Python, R, PyTorch, LaTeX, GitHub, Samtools, Minimap, HPC, Excel, Powerpoint, Word, Teams, iOS, Windows, Microsoft, Google.</div>
 </div>
 
 
