@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "laufuentes"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Laura Fuentes"
 description              : &description "personal description"
