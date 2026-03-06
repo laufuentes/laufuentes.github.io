@@ -1,5 +1,28 @@
 {% include base_path %}
-
+<style>
+  .masthead__menu-item.has-dropdown { position: relative; }
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #fff;
+    border: 1px solid #ddd;
+    min-width: 150px;
+    z-index: 1000;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .dropdown-menu li a {
+    display: block;
+    padding: 8px 16px;
+    white-space: nowrap;
+    color: #333;
+  }
+  .dropdown-menu li a:hover { background: #f5f5f5; }
+  .masthead__menu-item.has-dropdown:hover .dropdown-menu { display: block; }
+</style>
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
@@ -8,12 +31,23 @@
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
-            {% if link.url contains 'http' %}
-              {% assign domain = '' %}
+            {% if link.children %}
+              <li class="masthead__menu-item has-dropdown">
+                <a href="#">{{ link.title }}</a>
+                <ul class="dropdown-menu">
+                  {% for child in link.children %}
+                    <li><a href="{{ base_path }}{{ child.url }}">{{ child.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </li>
+            {% else %}
+              {% if link.url contains 'http' %}
+                {% assign domain = '' %}
               {% else %}
-              {% assign domain = base_path %}
+                {% assign domain = base_path %}
+              {% endif %}
+              <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>

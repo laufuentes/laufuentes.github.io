@@ -2,7 +2,7 @@
 title: "Poster EuroCIM 2025"
 collection: posters
 type: "Poster"
-permalink: /posters/Poster_EuroCIM
+permalink: /presentations/posters/Poster_EuroCIM
 venue: "EuroCIM 2025"
 date: 2025-04-09
 location: "Ghent, Belgium"
