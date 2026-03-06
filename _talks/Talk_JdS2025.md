@@ -8,6 +8,13 @@ date: 2025-06-05
 location: "Marseille, France"
 ---
 
+<img src="{{ site.baseurl }}/images/JDS_2025.JPG" 
+     alt="Description" 
+     style="float: right; margin-left: 1.5rem; margin-bottom: 1rem; max-width: 300px; border-radius: 8px;">
+
 I had the pleasure of presenting at the JdS 2025 conference in Marseille. During my talk, I shared some ongoing work on policy learning aimed at maximizing a primary outcome while controlling for adverse events. I began by introducing both the causal inference framework and the classical policy learning approach. I then motivated our choice of the EP-learning method, to which we added a constraint specifically designed to handle adverse outcomes. Finally, I presented some preliminary results based on the uncorrected version of our method, which helped highlight the need for incorporating estimation corrections in future work.
+
+<div style="clear: both;"></div>
+
 
 [Download slides](http://laufuentes.github.io/files/JDS_2025_LFV.pdf)
