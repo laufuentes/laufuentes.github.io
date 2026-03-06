@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "laufuentes/laufuentes.github.io "
+title                    : "laufuentes"
 title_separator          : "-"
 name                     : &name "Laura Fuentes"
 description              : &description "personal description"
@@ -168,10 +168,10 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /presentations/talks/:path/
   posters:
     output: true
-    permalink: /:collection/:path/
+    permalink: /presentations/posters/:path/
 
 
 # These settings control how pages and collections are included in the site

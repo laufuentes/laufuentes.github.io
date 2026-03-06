@@ -2,7 +2,7 @@
 title: "Talk Premedical team"
 collection: talks
 type: "Talk"
-permalink: /talks/talk_PreMeDICaL
+permalink: /presentations/talks/talk_PreMeDICaL
 venue: "Antenne INRIA Montpellier"
 date: 2024-09-30
 location: "Montpellier, France"

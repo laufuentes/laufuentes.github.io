@@ -1,11 +1,10 @@
 ---
 layout: archive
 title: "Posters"
-permalink: /posters/
+permalink: /presentations/posters/
 author_profile: true
 ---
-
-{% assign posters = site.posters | sort: "date" | reverse %}
-{% for post in posters %}
-  {% include archive-single-talk.html %}
+{% include base_path %}
+{% for post in site.posters reversed %}
+  {% include archive-single.html %}
 {% endfor %}

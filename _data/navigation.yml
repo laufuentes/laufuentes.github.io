@@ -10,9 +10,9 @@ main:
   - title: "Presentations"
     children:
       - title: "Talks"
-        url: /talks/
+        url: /presentations/talks/
       - title: "Posters"
-        url: /posters/
+        url: /presentations/posters/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
