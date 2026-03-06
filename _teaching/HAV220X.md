@@ -1,8 +1,8 @@
 ---
-title: "Scientific Reasoning"
+title: "Scientific Reasoning (HAV220X)"
 collection: teaching
 type: "Class"
-permalink: /teaching/HAV200X
+permalink: /teaching/HAV220X
 venue: "University of Montpellier"
 date: 2026-02-01
 location: "Montpellier, France"
