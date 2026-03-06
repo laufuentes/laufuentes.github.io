@@ -129,7 +129,7 @@ redirect_from:
 
 <div class="cv-card">
   <div class="cv-card__header">
-    <span class="cv-card__degree">SCHOLARSHIP MixtAI: Criterion Excellence</span>
+    <span class="cv-card__degree">Scholarship MixtAI: Criterion Excellence</span>
     <span class="cv-card__date">2022-2023 & 2023-2024</span>
   </div>
   <div class="cv-card__institution">DataIA, Paris-Saclay University</div>
