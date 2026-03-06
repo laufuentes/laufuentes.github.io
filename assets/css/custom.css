@@ -210,6 +210,28 @@ a:hover {
   border-left-color: var(--color-accent);
 }
 
+/* --- Publication box details --- */
+.pub__authors {
+  font-size: 0.85rem;
+  color: var(--color-text-muted);
+  margin: 0.2rem 0;
+  font-style: normal;
+}
+.pub__venue {
+  font-size: 0.85rem;
+  color: var(--color-accent);
+  font-weight: 500;
+  margin: 0.2rem 0;
+}
+.pub__abstract {
+  font-size: 0.84rem;
+  color: var(--color-text-muted);
+  margin-top: 0.6rem;
+  line-height: 1.6;
+  border-top: 1px solid var(--color-border);
+  padding-top: 0.6rem;
+}
+
 /* --- Buttons & links in content --- */
 .btn,
 .page__content a.btn {
