@@ -7,11 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-## MSc projects
-
-
-
-
 <div class="cv-section">
 <h2 class="cv-section__title">Projects</h2>
 
