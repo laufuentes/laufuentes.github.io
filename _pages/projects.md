@@ -13,12 +13,12 @@ author_profile: true
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree"> MSc projects</span>
-    <div class="cv-card__institution"> Paris-Saclay University </div>
     <div class="cv-card__meta">
       <span class="cv-card__date">2022 - 2024 </span>
       <div class="cv-card__location">Paris, France</div>
     </div>
   </div>
+    <div class="cv-card__institution"> Paris-Saclay University </div>
   <div class="cv-card__description"> Some projects developed during my MSc in Mathematics and Artificial Intelligence at Paris-Saclay University (2022–2024) can be found in my <a href="https://github.com/laufuentes/MSc-projects.git">MSc-projects repository</a> </div>. 
 </div>
 
