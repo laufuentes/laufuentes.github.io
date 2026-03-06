@@ -11,7 +11,7 @@
   --color-surface:     #decbe0;
   --color-border:      #e8e0d8;
   --color-accent:      #3d0356;   
-  --color-accent-soft: #f2e8eb;
+  --color-accent-soft: #ece5f1;
   --color-sage:        #8a9e8c;   /* sage green */
   --color-sage-soft:   #eaf0ea;
   --color-text:        #2e2a26;
@@ -69,7 +69,7 @@ a:hover {
 
 /* --- Masthead background --- */
 .masthead {
-  background: var(--color-bg) !important;
+  background: var(--color-surface) !important;
   border-bottom: 1px solid var(--color-bg) !important;
 }
 
