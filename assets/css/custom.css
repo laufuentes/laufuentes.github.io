@@ -9,17 +9,17 @@
 /* --- CSS Variables --- */
 :root {
   --color-bg:          #faf9f7;
-  --color-surface:     #ffffff;
+  --color-surface:     #e1abe6;
   --color-border:      #e8e0d8;
-  --color-accent:      #b07d8a;   /* dusty rose */
+  --color-accent:      #3d0356;   
   --color-accent-soft: #f2e8eb;
   --color-sage:        #8a9e8c;   /* sage green */
   --color-sage-soft:   #eaf0ea;
   --color-text:        #2e2a26;
-  --color-text-muted:  #7a7068;
-  --color-heading:     #1e1a17;
-  --font-display:      'Cormorant Garamond', Georgia, serif;
-  --font-body:         'DM Sans', sans-serif;
+  --color-text-muted:  #41364d;
+  --color-heading:     #000000;
+  --font-display:      Georgia, serif;
+  --font-body:         'DM Sans';
   --radius:            10px;
   --shadow:            0 2px 16px rgba(100, 80, 70, 0.08);
   --shadow-hover:      0 6px 28px rgba(100, 80, 70, 0.15);
@@ -68,11 +68,13 @@ a:hover {
   color: var(--color-sage);
 }
 
-/* --- Masthead / Nav --- */
+/* --- Masthead background --- */
 .masthead {
-  background: var(--color-surface);
-  border-bottom: 1px solid var(--color-border);
-  box-shadow: 0 1px 12px rgba(100,80,70,0.06);
+  background: var(--color-surface) !important;
+}
+
+.greedy-nav {
+  background: var(--color-surface) !important;
 }
 
 .greedy-nav a,

@@ -3,14 +3,11 @@ title: 'Policy learning under constraint: Maximizing a primary outcome while con
 collection: publications
 category: manuscripts
 permalink: /publication/PLUC
+authors: Laura Fuentes-Vicente, Mathieu Even, Gaelle Dormion, Julie Josse, Antoine Chambaz. 
 date: 2026-01-29
 venue: 'preprint submitted to JASA'
 
 ---
-
-## Policy learning under constraint: Maximizing a primary outcome while controlling an adverse event
-
-Laura Fuentes-Vicente, Mathieu Even, Gaelle Dormion, Julie Josse, Antoine Chambaz. 
 
 ## Abstract 
 
