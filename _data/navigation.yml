@@ -8,6 +8,7 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "Presentations"
+    url: /presentations/
     children:
       - title: "Talks"
         url: /presentations/talks/

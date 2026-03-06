@@ -3,7 +3,6 @@ title: 'Policy learning under constraint: Maximizing a primary outcome while con
 collection: publications
 category: manuscripts
 permalink: /publication/PLUC
-excerpt: 'Template description'
 date: 2026-01-29
 venue: 'preprint submitted to JASA'
 
