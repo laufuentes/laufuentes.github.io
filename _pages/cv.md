@@ -203,7 +203,7 @@ redirect_from:
   margin-bottom: 1rem;
 }
 .cv-card {
-  background: var(--color-accent-soft);
+  background: var(--color-bg);
   border: 1px solid var(--color-border);
   border-left: 4px solid var(--color-accent);
   border-radius: 10px;
