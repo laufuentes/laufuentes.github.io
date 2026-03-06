@@ -70,6 +70,7 @@ a:hover {
 /* --- Masthead background --- */
 .masthead {
   background: var(--color-bg) !important;
+  border-bottom: 1px solid var(--color-bg) !important;
 }
 
 .greedy-nav {
