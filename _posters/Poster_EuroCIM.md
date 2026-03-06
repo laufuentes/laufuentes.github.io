@@ -1,8 +1,8 @@
 ---
 title: "Poster EuroCIM 2025"
-collection: talks
-type: "Talk"
-permalink: /talks/Poster_EuroCIM
+collection: posters
+type: "Poster"
+permalink: /posters/Poster_EuroCIM
 venue: "EuroCIM 2025"
 date: 2025-04-09
 location: "Ghent, Belgium"
