@@ -7,13 +7,10 @@
 main:
   - title: "Publications"
     url: /publications/
-  - title: "Presentations"
-    url: /presentations/
-    children:
-      - title: "Talks"
-        url: /presentations/talks/
-      - title: "Posters"
-        url: /presentations/posters/
+  - title: "Talks"
+    url: /presentations/talks/
+  - title: "Posters"
+    url: /presentations/posters/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
