@@ -8,7 +8,22 @@ author_profile: true
 {% include base_path %}
 
 <div class="cv-section">
-<h2 class="cv-section__title">Projects</h2>
+<h2 class="cv-section__title">Projects & Softwares</h2>
+
+<div class="cv-card">
+  <div class="cv-card__header">
+    <span class="cv-card__degree"> PLUC-R software</span>
+    <div class="cv-card__meta">
+      <span class="cv-card__date"> 12/2025 </span>
+    </div>
+  </div>
+  <div class="cv-card__description"> 
+  The PLUCR package provides tools for learning treatment policies that maximize a primary clinical outcome while controlling the risk of adverse events. Unlike standard approaches based on the sign of the Conditional Average Treatment Effect (CATE), which focus only on expected benefits, PLUCR explicitly accounts for potential harms.
+  
+  The package formulates policy learning as a constrained optimization problem: it estimates treatment probabilities that maximize the primary outcome while satisfying user-defined constraints on adverse events. This is achieved through an iterative procedure that adapts CATE-based estimates to produce a policy that balances benefits and risks.
+  
+  <a href="https://github.com/laufuentes/PLUCR.git">PLUCR repository</a> </div>. 
+</div>
 
 <div class="cv-card">
   <div class="cv-card__header">
@@ -21,6 +36,7 @@ author_profile: true
     <div class="cv-card__institution"> Paris-Saclay University </div>
   <div class="cv-card__description"> Some projects developed during my MSc in Mathematics and Artificial Intelligence at Paris-Saclay University (2022–2024) can be found in my <a href="https://github.com/laufuentes/MSc-projects.git">MSc-projects repository</a> </div>. 
 </div>
+
 
 
 <style>
