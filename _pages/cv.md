@@ -15,31 +15,37 @@ redirect_from:
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">Ph.D in Policy Learning and Causal Inference</span>
-    <div class="cv-card__location">Montpellier, France</div>
-    <span class="cv-card__date">2024 - 2027 (expected)</span>
+    <div class="cv-card__meta">
+      <span class="cv-card__date">2024 - 2027 (expected)</span>
+      <div class="cv-card__location">Montpellier, France</div>
+    </div>
   </div>
-  <div class="cv-card__institution">[PreMeDICaL](https://team.inria.fr/premedical/) INRIA-IDESP Montpellier University & [MAP5](https://map5.mi.parisdescartes.fr) Paris Cité University*</div>
-  <div class="cv-card__description">Supervisors: [Antoine Chambaz](https://helios2.mi.parisdescartes.fr/~chambaz/) and [Julie Josse](https://juliejosse.com/)</div>
+  <div class="cv-card__institution"> <a href="https://team.inria.fr/premedical/">PreMeDICaL</a>, INRIA-IDESP & <a href="https://map5.mi.parisdescartes.fr">MAP5</a> Paris Cité University </div>
+  <div class="cv-card__description">Supervisors:  <a href="https://juliejosse.com/">Julie Josse</a> and <a href="https://helios2.mi.parisdescartes.fr/~chambaz/">Antoine Chambaz</a> </div>. 
 </div>
 
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">MSc in Mathematics and Artificial Intelligence</span>
-    <div class="cv-card__location">Paris, France</div>
-    <span class="cv-card__date">2022-2024</span>
+    <div class="cv-card__meta">
+      <span class="cv-card__date">2022-2024</span>
+      <div class="cv-card__location">Paris, France</div>
+    </div>
   </div>
   <div class="cv-card__institution">Paris-Saclay University, LMO Orsay, CentraleSupelec, ENS Paris-Saclay</div>
-  <div class="cv-card__description">Statistical learning, Probability, Optimization, Supervised & non-supervised learning,  Machine learning, Databases, Deep learning, Reinforced learning, Optimization for computer vision, Statistics in high dimension, Medical Image analysis, Bayesian statistics, Graphical models.  [M1 link](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m1/mathematiques-et-intelligence-artificielle/), [M2 link](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/m2-mathematique-et-intelligence-artificielle/) </div>
+  <div class="cv-card__description">Statistical learning, Probability, Optimization, Supervised & non-supervised learning,  Machine learning, Databases, Deep learning, Reinforced learning, Optimization for computer vision, Statistics in high dimension, Medical Image analysis, Bayesian statistics, Graphical models. <a href="https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m1/mathematiques-et-intelligence-artificielle/">M1 website</a> and <a href="https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/m2-mathematique-et-intelligence-artificielle/">M2 website</a> </div>
 </div>
  
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">BSc in Mathematics and Life Science</span>
-    <div class="cv-card__location">Paris, France</div>
-    <span class="cv-card__date">2019-2022</span>
+    <div class="cv-card__meta">
+      <span class="cv-card__date">2019-2022</span>
+      <div class="cv-card__location">Paris, France</div>
+    </div>    
   </div>
   <div class="cv-card__institution">Paris-Saclay University</div>
-  <div class="cv-card__description">Algebra, Analysis, Probability, ODEs, Statistics, Algebraic structures, Differential calculus, Integration, Celular biology, Molecular biology, Evolution, Ecology, Bio-chemestry, Genetics, Animal and vegetal physiology. [link](https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie.)</div>
+  <div class="cv-card__description">Algebra, Analysis, Probability, ODEs, Statistics, Algebraic structures, Differential calculus, Integration, Celular biology, Molecular biology, Evolution, Ecology, Bio-chemestry, Genetics, Animal and vegetal physiology. <a href="https://www.universite-paris-saclay.fr/formation/licence-double-diplome/mathematiques-sciences-de-la-vie.">BSc website</a></div>
 </div>
 
 </div>
@@ -50,18 +56,22 @@ redirect_from:
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">Research Internship</span>
-    <div class="cv-card__location">Montpellier, France</div>
-    <span class="cv-card__date">04/2024 - 09/2024</span>
+    <div class="cv-card__meta">
+      <span class="cv-card__date">04/2024 - 09/2024</span>
+      <div class="cv-card__location">Montpellier, France</div>
+    </div> 
   </div>
-  <div class="cv-card__institution">[PreMeDICaL](https://team.inria.fr/premedical/) INRIA-IDESP</div>
+  <div class="cv-card__institution"> <a href="https://team.inria.fr/premedical/">PreMeDICaL</a> INRIA-IDESP</div>
   <div class="cv-card__description">Statistics, Causal inference, Policy learning, Optimization, Machine learning. Supervisors: Julie Josse, Antoine Chambaz. </div>
 </div>
 
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">Research Intenship</span>
-    <div class="cv-card__location">Rixensart, Belgium</div>
-    <span class="cv-card__date">04/2023 - 07/2023 </span>
+    <div class="cv-card__meta">
+      <span class="cv-card__date">04/2023 - 07/2023 </span>
+      <div class="cv-card__location">Rixensart, Belgium</div>
+    </div> 
   </div>
   <div class="cv-card__institution">GSK</div>
   <div class="cv-card__description">A contribution to understanding sequencing precision. Classification, Linear models, Optimal transport, Machine learning, Bio-informatics, HPC.</div>
@@ -70,8 +80,10 @@ redirect_from:
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">Volunteering</span>
-    <div class="cv-card__location">Flensburg, Germany</div>
-    <span class="cv-card__date">07/2022 </span>
+    <div class="cv-card__meta">
+      <span class="cv-card__date">07/2022 </span>
+      <div class="cv-card__location">Flensburg, Germany</div>
+    </div> 
   </div>
   <div class="cv-card__institution">International Civil Service (SCI)</div>
   <div class="cv-card__description">Help reforming a climatic park (Artefakt center).</div>
@@ -80,8 +92,10 @@ redirect_from:
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">Research Internship</span>
-    <div class="cv-card__location">Paris, France</div>
-    <span class="cv-card__date">04/2021 - 05/2021 </span>
+    <div class="cv-card__meta">
+      <span class="cv-card__date">04/2021 - 05/2021 </span>
+      <div class="cv-card__location">Paris, France</div>
+    </div> 
   </div>
   <div class="cv-card__institution">IJCLab</div>
   <div class="cv-card__description">"Modeling cerebral tumor growth. Study of the effect of Radiotherapy on low grade diffuse gliomas with a partial differential equation (Fisher-Kolmogorov), in Python. EDP, Algebra, Python. Supervisors: Mathilde Badoual, Sabir Jacquir. </div>
@@ -90,8 +104,10 @@ redirect_from:
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">Volunteering</span>
-    <div class="cv-card__location">Rome, Italy</div>
-    <span class="cv-card__date">08/2021 </span>
+    <div class="cv-card__meta">
+      <span class="cv-card__date">08/2021 </span>
+     <div class="cv-card__location">Rome, Italy</div>
+    </div> 
   </div>
   <div class="cv-card__institution">International Civil Service (SCI)</div>
   <div class="cv-card__description">Help with the weeding, seed and harvest in a Community Supported Agriculture.</div>
@@ -102,14 +118,14 @@ redirect_from:
 <div class="cv-section">
 <h2 class="cv-section__title">Awards & Grants</h2>
 
-* Doctoral school and fundings:  biostatistics department, [ANITI](https://aniti.univ-toulouse.fr) and [Occitanie](https://www.laregion.fr)
-
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">PhD scholarship</span>
     <span class="cv-card__date">2024-2027</span>
   </div>
-  <div class="cv-card__institution">Doctoral School [EDI2S](https://edi2s.umontpellier.fr/)</div>
+  <div class="cv-card__institution">Doctoral School <a href="https://edi2s.umontpellier.fr/">EDI2S</a>
+  
+  </div>
 </div>
 
 <div class="cv-card">
@@ -117,7 +133,7 @@ redirect_from:
     <span class="cv-card__degree">PhD scholarship</span>
     <span class="cv-card__date">2024-2027</span>
   </div>
-  <div class="cv-card__institution">AI for health [ANITI](https://aniti.univ-toulouse.fr) and [Occitanie](https://www.laregion.fr)</div>
+  <div class="cv-card__institution">AI for health program: <a href="https://aniti.univ-toulouse.fr">ANITI</a> and <a href="https://www.laregion.fr">Occitanie</a></div>
 </div>
 
 <div class="cv-card">
@@ -131,15 +147,7 @@ redirect_from:
 <div class="cv-card">
   <div class="cv-card__header">
     <span class="cv-card__degree">SCHOLARSHIP MixtAI: Criterion Excellence</span>
-    <span class="cv-card__date">2022-2023</span>
-  </div>
-  <div class="cv-card__institution">DataIA, Paris-Saclay University</div>
-</div>
-
-<div class="cv-card">
-  <div class="cv-card__header">
-    <span class="cv-card__degree">SCHOLARSHIP MixtAI: Criterion Excellence</span>
-    <span class="cv-card__date">2023-2024</span>
+    <span class="cv-card__date">2022-2023 & 2023-2024</span>
   </div>
   <div class="cv-card__institution">DataIA, Paris-Saclay University</div>
 </div>
@@ -203,7 +211,7 @@ redirect_from:
   margin-bottom: 1rem;
 }
 .cv-card {
-  background: var(--color-accent-soft);
+  background: var(--color-bg);
   border: 1px solid var(--color-border);
   border-left: 4px solid var(--color-accent);
   border-radius: 10px;
@@ -247,6 +255,13 @@ redirect_from:
   margin-top: 0.4rem;
   line-height: 1.6;
 }
+.cv-card__meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.1rem;
+}
+
 .cv-card__location {
   font-size: 0.82rem;
   color: var(--color-text-muted);
