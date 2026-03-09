@@ -11,7 +11,7 @@ Short bio
 ======
 
 
-👩🏽‍💻 I'm a second-year PhD candidate in Statistics and Machine Learning, supervised by [Julie Josse](https://juliejosse.com/) and [Antoine Chambaz](https://helios2.mi.parisdescartes.fr/~chambaz/)at [PreMeDICaL](https://team.inria.fr/premedical/) INRIA-IDESP and [MAP5](https://map5.mi.parisdescartes.fr). 
+👩🏽‍💻 I'm a second-year PhD candidate in Statistics and Machine Learning, supervised by [Julie Josse](https://juliejosse.com/) and [Antoine Chambaz](https://helios2.mi.parisdescartes.fr/~chambaz/) at [PreMeDICaL](https://team.inria.fr/premedical/) INRIA-IDESP and [MAP5](https://map5.mi.parisdescartes.fr). 
 
 📚 My research focuses on causal inference and constrained policy learning, at the intersection of statistics, machine learning, optimization, and precision medicine.
 
