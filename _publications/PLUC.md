@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/PLUC
 authors: Laura Fuentes-Vicente, Mathieu Even, Gaelle Dormion, Julie Josse, Antoine Chambaz. 
 date: 2026-01-29
-venue: 'preprint submitted to JASA'
+venue: 'preprint'
 
 ---
 
