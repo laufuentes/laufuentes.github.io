@@ -20,8 +20,8 @@ Short bio
   <h3 class="news-box__title">News & Highlights</h3>
   <div class="news-box__scroll">
   <div class="news-item">
-      <span class="news-item__date"> 02/2026</span>
-      <span class="news-item__text"> 🎉 Abstract accepted for an oral presentation at EuroCIM 2026!</span>
+      <span class="news-item__date"> 04/2026</span>
+      <span class="news-item__text"> I presented at EuroCIM 2026!</span>
     </div>
 
   <div class="news-item">
