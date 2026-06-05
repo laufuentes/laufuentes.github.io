@@ -1,5 +1,5 @@
 ---
-title: "Talk JdS 2025"
+title: "Talk JdS 2026"
 collection: talks
 type: "Talk"
 permalink: /talks/talk_JdS2026
