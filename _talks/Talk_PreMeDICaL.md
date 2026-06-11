@@ -1,5 +1,5 @@
 ---
-title: "Talk Premedical team"
+title: "Talk Premedical team: Introduction to policy learning"
 collection: talks
 type: "Talk"
 permalink: /presentations/talks/talk_PreMeDICaL
