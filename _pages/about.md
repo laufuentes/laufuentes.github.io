@@ -20,6 +20,10 @@ Short bio
   <h3 class="news-box__title">News & Highlights</h3>
   <div class="news-box__scroll">
   <div class="news-item">
+      <span class="news-item__date"> 01/2026</span>
+      <span class="news-item__text"> 🎉 New preprint out on Set-valued policy learning — <a href="https://arxiv.org/abs/2605.19830">arXiv</a></span>
+    </div>
+  <div class="news-item">
       <span class="news-item__date"> 04/2026</span>
       <span class="news-item__text"> I presented at EuroCIM 2026!</span>
     </div>
