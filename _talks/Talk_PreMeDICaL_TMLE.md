@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /presentations/talks/talk_PreMeDICaL_TMLE
 venue: "Antenne INRIA Montpellier"
-date: 2025-06-10
+date: 2026-06-10
 location: "Montpellier, France"
 ---
 
